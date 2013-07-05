@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="bing-search-java-sdk">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/bing-search-java-sdk/bing-search-java-sdk.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/bing-search-java-sdk/gson-1.4.jar!/" />
+      <root url="file://$PROJECT_DIR$/src/commons-beanutils-1.8.3" />
+      <root url="file://$PROJECT_DIR$/src/commons-cli-1.2" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/src/commons-beanutils-1.8.3/apidocs" />
+      <root url="file://$PROJECT_DIR$/src/commons-cli-1.2/apidocs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src/commons-beanutils-1.8.3" />
+      <root url="file://$PROJECT_DIR$/src/commons-cli-1.2" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/src/commons-beanutils-1.8.3" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/src/commons-cli-1.2" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/src/commons-beanutils-1.8.3" recursive="false" type="SOURCES" />
+    <jarDirectory url="file://$PROJECT_DIR$/src/commons-cli-1.2" recursive="false" type="SOURCES" />
+  </library>
+</component>
